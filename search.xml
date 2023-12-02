@@ -429,13 +429,13 @@ height:250px;
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>关于</title>
-    <url>/about/index.html</url>
+    <title>link</title>
+    <url>/link/index-1.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>link</title>
-    <url>/link/index-1.html</url>
+    <title>关于</title>
+    <url>/about/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -444,11 +444,9 @@ height:250px;
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>音乐</title>
-    <url>/music/index.html</url>
-    <content><![CDATA[<h3 id="留下来听会儿歌吧！这里是一些我喜欢的">留下来听会儿歌吧！这里是一些我喜欢的</h3>
-<div class="aplayer" data-id="8691836241" data-server="netease" data-type="playlist" data-autoplay="false" data-theme="#00ffff" data-mutex="true" > </div>
-]]></content>
+    <title>标签</title>
+    <url>/tags/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>更新日志</title>
@@ -481,6 +479,13 @@ height:250px;
 <ul>
 <li>之前版本的更新日志省略</li>
 </ul>
+]]></content>
+  </entry>
+  <entry>
+    <title>音乐</title>
+    <url>/music/index.html</url>
+    <content><![CDATA[<h3 id="留下来听会儿歌吧！这里是一些我喜欢的">留下来听会儿歌吧！这里是一些我喜欢的</h3>
+<div class="aplayer" data-id="8691836241" data-server="netease" data-type="playlist" data-autoplay="false" data-theme="#00ffff" data-mutex="true" > </div>
 ]]></content>
   </entry>
   <entry>
@@ -888,6 +893,39 @@ document.write("	<\/div>");
 document.write("    <div id=\"gaokao\">距离2024年高考还有<span id=\"day1\"><\/span>天<\/div>");
 document.write("   <script src=\"\/assets\/js\/timer.js\"><\/script>");
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/assets/js/time.js</url>
+    <content><![CDATA[function getNowTime() {
+    let now = new Date();
+    let year = now.getFullYear(); 
+    let month = now.getMonth() + 1;
+    let today = now.getDate(); 
+    let day = now.getDay();
+    var weeks = new Array("星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六");
+    var week = weeks[day];
+    let hour = now.getHours(); 
+    let minute = now.getMinutes(); 
+    let second = now.getSeconds(); 
+    let nowTime = ''
+    nowTime = year + '/' + fillZero(month) + '/' + fillZero(today) + ' ' + week;
+    document.getElementById('nowTime').innerHTML = nowTime;
+    document.getElementById('nowHour').innerHTML = hour;
+    document.getElementById('nowMin').innerHTML = fillZero(minute);
+    document.getElementById('nowSec').innerHTML = fillZero(second);
+  };
+  
+  function fillZero (str) {
+    var realNum;
+    if (str < 10) {
+      realNum = '0' + str;
+    } else {
+      realNum = str;
+    }
+    return realNum;
+  }
+  setInterval('getNowTime()', 1000);]]></content>
   </entry>
   <entry>
     <title></title>
@@ -1440,39 +1478,6 @@ document.getElementById("showall").style.display = "inline";
 document.getElementById("hide").style.display = "none";
 document.getElementById("panel").style.display = "none";
 }]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/assets/js/time.js</url>
-    <content><![CDATA[function getNowTime() {
-    let now = new Date();
-    let year = now.getFullYear(); 
-    let month = now.getMonth() + 1;
-    let today = now.getDate(); 
-    let day = now.getDay();
-    var weeks = new Array("星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六");
-    var week = weeks[day];
-    let hour = now.getHours(); 
-    let minute = now.getMinutes(); 
-    let second = now.getSeconds(); 
-    let nowTime = ''
-    nowTime = year + '/' + fillZero(month) + '/' + fillZero(today) + ' ' + week;
-    document.getElementById('nowTime').innerHTML = nowTime;
-    document.getElementById('nowHour').innerHTML = hour;
-    document.getElementById('nowMin').innerHTML = fillZero(minute);
-    document.getElementById('nowSec').innerHTML = fillZero(second);
-  };
-  
-  function fillZero (str) {
-    var realNum;
-    if (str < 10) {
-      realNum = '0' + str;
-    } else {
-      realNum = str;
-    }
-    return realNum;
-  }
-  setInterval('getNowTime()', 1000);]]></content>
   </entry>
   <entry>
     <title></title>
@@ -5952,10 +5957,5 @@ function tow(n) {
     m
 });
 ]]></content>
-  </entry>
-  <entry>
-    <title>标签</title>
-    <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
   </entry>
 </search>
