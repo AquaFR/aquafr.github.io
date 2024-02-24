@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Hello World</title>
+    <url>/articles/1001/</url>
+    <content><![CDATA[<p>本站为<a href="https://aquafr.cn">AquaFR</a>的测试博客，感谢您的访问。<br>
+使用<code>Github Pages</code>搭建，加载速度较慢，请耐心等待。</p>
+<p>文章链接： <a href="https://aquafr.cn/articles/1001/">https://aquafr.cn/articles/1001/</a></p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>业余无线电台管理办法（工信部令第67号）</title>
     <url>/articles/1003/</url>
     <content><![CDATA[<p>原文链接：<i class="fa-solid fa-arrow-up-right-from-square"> </i> <a href="https://wap.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/wxdl/art/2024/art_9a2dba77d86942cebd1e9cbacd2d4b20.html">https://wap.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/wxdl/art/2024/art_9a2dba77d86942cebd1e9cbacd2d4b20.html</a></p>
@@ -31,15 +45,13 @@
 <p><strong>第九条</strong> 设置业余中继台，其台址布局应当符合资源共享、集约的要求。<br>
 省、自治区、直辖市无线电管理机构应当制定本行政区域业余中继台设置、使用规划，明确设台地点、使用频率、技术参数等设置、使用和运行维护要求，并向社会公布。<br>
 业余中继台服务区域超出本行政区域的，应当与相关省、自治区、直辖市无线电管理机构做好协调。</p>
-</blockquote>
-<blockquote>
 <p><strong>第十条</strong> 设置、使用有固定台址的业余无线电台，应当向电台所在地的省、自治区、直辖市无线电管理机构提出申请。设置、使用没有固定台址的业余无线电台，应当向申请人住所地的省、自治区、直辖市无线电管理机构提出申请。<br>
 设置、使用15瓦以上短波业余无线电台以及涉及国家主权、安全的其他重要业余无线电台，应当向国家无线电管理机构提出申请。</p>
 <p><strong>第十一条</strong> 个人设置、使用业余无线电台，应当向无线电管理机构提交下列材料：</p>
 <ul>
 <li>（一）申请表（样式见附件1）；</li>
-<li>（二）身份证明复印件；<br>
--（三）使用依法取得型号核准的无线电发射设备的，提交含有型号核准代码、出厂序列号等信息的无线电发射设备照片；使用自制、改装、拼装等未取得型号核准的无线电发射设备的，提交该设备符合本办法第七条第三项规定条件的说明材料。<br>
+<li>（二）身份证明复印件；</li>
+<li>（三）使用依法取得型号核准的无线电发射设备的，提交含有型号核准代码、出厂序列号等信息的无线电发射设备照片；使用自制、改装、拼装等未取得型号核准的无线电发射设备的，提交该设备符合本办法第七条第三项规定条件的说明材料。<br>
 申请人为未成年人的，还应当提交其监护人身份证明复印件，以及申请人与监护人关系的说明材料。</li>
 </ul>
 <p><strong>第十二条</strong> 单位设置、使用业余无线电台的，除提交本办法第十一条第一款第一项、第三项规定的材料外，还应当提交单位营业执照等复印件，以及业余无线电台技术负责人为本单位工作人员的说明材料。</p>
@@ -49,8 +61,6 @@
 <p><strong>第十四条</strong> 设置、使用业余无线电台拟使用自制、改装、拼装等未取得型号核准的无线电发射设备的，无线电管理机构应当对该设备是否符合本办法第七条第三项规定的条件进行技术检测。<br>
 无线电管理机构开展技术检测，不得收取任何费用。</p>
 <p><strong>第十五条</strong> 设置、使用业余无线电台拟使用《中华人民共和国无线电频率划分规定》确定为次要业务，或者与其他无线电业务共同划分为主要业务的业余业务频率的，无线电管理机构应当根据当地无线电台（站）设置和相关无线电频率使用等情况，开展必要的频率协调。</p>
-</blockquote>
-<blockquote>
 <p><strong>第十六条</strong> 设置、使用15瓦以上短波业余无线电台以及涉及国家主权、安全的其他重要业余无线电台的，国家无线电管理机构作出许可决定前，可以委托电台所在地或者申请人住所地的省、自治区、直辖市无线电管理机构对业余无线电台的使用方式、技术条件、安装环境等进行现场核查。</p>
 <p><strong>第十七条</strong> 无线电管理机构依法开展技术检测、频率协调等所需时间，不计算在本办法第十三条第三款规定的审查期限内，但应当将所需时间告知申请人。</p>
 <p><strong>第十八条</strong> 无线电管理机构颁发业余无线电台执照，应当同时向申请人核发业余无线电台呼号，但申请人已取得业余中继台、业余信标台呼号以外的其他业余无线电台呼号的，无线电管理机构不再核发新的业余无线电台呼号。</p>
@@ -148,20 +158,6 @@
         <tag>业余无线电</tag>
         <tag>HAM</tag>
         <tag>工信部</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/articles/1001/</url>
-    <content><![CDATA[<p>本站为<a href="https://aquafr.cn">AquaFR</a>的测试博客，感谢您的访问。<br>
-使用<code>Github Pages</code>搭建，加载速度较慢，请耐心等待。</p>
-<p>文章链接： <a href="https://aquafr.cn/articles/1001/">https://aquafr.cn/articles/1001/</a></p>
-]]></content>
-      <categories>
-        <category>其他</category>
-      </categories>
-      <tags>
-        <tag>网站</tag>
       </tags>
   </entry>
   <entry>
@@ -574,13 +570,8 @@ height:250px;
    <script src="/assets/js/timer.js"></script>]]></content>
   </entry>
   <entry>
-    <title>友情链接</title>
-    <url>/link/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>关于</title>
-    <url>/about/index.html</url>
+    <title>分类</title>
+    <url>/categories/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -589,8 +580,8 @@ height:250px;
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
+    <title>关于</title>
+    <url>/about/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -599,6 +590,11 @@ height:250px;
     <content><![CDATA[<h3 id="留下来听会儿歌吧！这里是一些我喜欢的">留下来听会儿歌吧！这里是一些我喜欢的</h3>
 <div class="aplayer" data-id="8691836241" data-server="netease" data-type="playlist" data-autoplay="false" data-theme="#00ffff" data-mutex="true" > </div>
 ]]></content>
+  </entry>
+  <entry>
+    <title>友情链接</title>
+    <url>/link/index.html</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>标签</title>
@@ -725,356 +721,6 @@ height:250px;
 	0% { transform: none; transform: none; }
 	100% { transform: translate(-32px, 0); transform: translate(-32px, 0); }
 }]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/assets/js/calhtml.js</url>
-    <content><![CDATA[document.write("<style>");
-document.write(".tdSelState{");
-document.write("border-width: 1px;");
-document.write("border-color: #0ff !important;");
-document.write("border-style: solid;");
-document.write("}");
-document.write("");
-document.write(".calendarBk{");
-document.write("	margin:0px auto;");
-document.write("	display:block;	");
-document.write("	background:transparent;	");
-document.write("}");
-document.write("");
-document.write(".aorange, .one {");
-document.write("color: rgba(255,255,255,0.7);");
-document.write("text-align:center;");
-document.write("}");
-document.write("");
-document.write(".solarDay {");
-document.write("color: #0ff;");
-document.write("}");
-document.write("");
-document.write(".aorange:hover,.one:hover{");
-document.write("    border-color: #0ff;");
-document.write("}");
-document.write("");
-document.write(".spc {");
-document.write("color:#ff5f07;");
-document.write("}");
-document.write("");
-document.write("select,p {");
-document.write("font-size: 14px;");
-document.write("height:24px;");
-document.write("color:#000;");
-document.write("text-align: center; ");
-document.write("}");
-document.write("select{");
-document.write("width:85px;");
-document.write("}");
-document.write("select#sm{");
-document.write("  width:65px;");
-document.write("}");
-document.write("");
-document.write("div#festival {");
-document.write("color: rgba(255,255,255,0.7);");
-document.write("width: 130px; ");
-document.write("padding: 2px; ");
-document.write("margin: 0; ");
-document.write("");
-document.write("}");
-document.write("");
-document.write("div#datedetail {");
-document.write("width: 130px; ");
-document.write("border: 0; ");
-document.write("padding: 2px; ");
-document.write("margin: 0; ");
-document.write("text-align:right; ");
-document.write("}");
-document.write("div#datedetail span {");
-document.write("color: #23460f;");
-document.write("}");
-document.write("div#detail {");
-document.write("position: absolute;");
-document.write("visibility: hidden;");
-document.write("margin: 0;");
-document.write("}");
-document.write("");
-document.write("div#date {");
-document.write("clear:both;");
-document.write("padding-top:0 !important;");
-document.write("width:100%;");
-document.write("}");
-document.write("div#calendar {");
-document.write("text-align:center;");
-document.write("width:100%;");
-document.write("border-top:0;");
-document.write("height:auto;");
-document.write("}");
-document.write("#calendarhead{");
-document.write("height:30px;");
-document.write("border:0;");
-document.write("padding:0;");
-document.write("margin: 0 0 2px 0;");
-document.write("width: 100%;");
-document.write("}");
-document.write("");
-document.write("#calendarhead tr td {");
-document.write("width:32px;");
-document.write("text-align:center;");
-document.write("font-size: 14px;");
-document.write("color: #0ff;");
-document.write("border-bottom: 2px solid #0ff;");
-document.write("border-top: none;");
-document.write("border-left: none;");
-document.write("border-right: none;");
-document.write("padding: 0;");
-document.write("}");
-document.write("#dateHeader{");
-document.write("width:100%;");
-document.write("text-align: center;");
-document.write("color: #fff;");
-document.write("font-size: 14px;");
-document.write("}");
-document.write("#dateHeader>div{");
-document.write("    margin: 3px 0;");
-document.write("}");
-document.write("");
-document.write("div#panel{");
-document.write("    display: none;");
-document.write("    justify-content: space-between;");
-document.write("    margin-bottom: 5px;");
-document.write("}");
-document.write("div#panel button {");
-document.write("padding:3px;");
-document.write("margin-right:2px;");
-document.write("color:#f0f0f0;");
-document.write("background-color: rgba(0, 170, 170, 0.5);");
-document.write("height:28px;");
-document.write("width:40px;");
-document.write("cursor:pointer;");
-document.write("transition: .3s;");
-document.write("border: none;");
-document.write("border-radius: 3px;");
-document.write("}");
-document.write("");
-document.write("div#panel button:hover{");
-document.write("transition: .3s;");
-document.write("color: #0ff;");
-document.write("}");
-document.write("div#panel button:active{");
-document.write("background:#38C462;");
-document.write("border:1px solid #0ff;");
-document.write("}");
-document.write("div#panel button:focus{");
-document.write("   outline: none;");
-document.write("}");
-document.write("	  ");
-document.write("#week {");
-document.write("border-collapse:collapse;");
-document.write("width: 100%;");
-document.write("}");
-document.write("#week tr td {");
-document.write("padding:1px;");
-document.write("margin:0;");
-document.write("width: 14.28%;");
-document.write("border-radius: 5px;");
-document.write("}");
-document.write("");
-document.write(".tr2 td {");
-document.write("background-color: #e8f5f9;");
-document.write("}");
-document.write("");
-document.write(".solarDay,.lunarDay{");
-document.write("	display:block;");
-document.write("    line-height: 19px;	");
-document.write("}");
-document.write(".solarDay{");
-document.write("	color: rgba(255,255,255,0.7);");
-document.write("	margin-top:5px;");
-document.write("    font-size: 14px;");
-document.write("}");
-document.write(".lunarDay{");
-document.write("    font-size: 10px;");
-document.write("}");
-document.write("");
-document.write(".gray{");
-document.write("   color:#acacac !important;");
-document.write("}");
-document.write(".main{");
-document.write("margin:0px;");
-document.write("background-size:100% 100%;");
-document.write("width:100%;");
-document.write("}");
-document.write("");
-document.write(".sp-block{");
-document.write("float:left;");
-document.write("width:400px;");
-document.write("height:250px;");
-document.write("}");
-document.write(".tr1 >td {");
-document.write("    transition: .3s;");
-document.write("    display: inline-block;");
-document.write("    border-style: solid;");
-document.write("    border-width: 1px;");
-document.write("    border-color: transparent;");
-document.write("    cursor: default;");
-document.write("}");
-document.write(".tr1 >td:hover:focus {");
-document.write("    border-color: rgb(0, 203, 203);");
-document.write("    color: #fff;");
-document.write("    transition: .3s;");
-document.write("    padding: 0;");
-document.write("    box-shadow: 5px #0ff;");
-document.write("}");
-document.write(".today>span{");
-document.write("    color: #fff !important;");
-document.write("}");
-document.write(".today{");
-document.write("    background-color: rgba(0, 170, 170, 0.5);");
-document.write("    border-color: #0ff !important;");
-document.write("}");
-document.write("#calendarmonth{");
-document.write("    color: #fff;");
-document.write("    display: none;");
-document.write("}");
-document.write("#time{");
-document.write("    color: #fff;");
-document.write("    font-size: 20px !important;");
-document.write("    font-family: Consolas, sans-serif;");
-document.write("    text-align: center;");
-document.write("    height: 35px;");
-document.write("    margin-top: -5px !important;");
-document.write("}");
-document.write("#time>span {");
-document.write("    background-color: #3f3f3fd2;");
-document.write("    padding: 2px 4px;");
-document.write("    border-radius: 5px;");
-document.write("}");
-document.write("#festival1{");
-document.write("    color: #0ff;");
-document.write("}");
-document.write(".tr1 {");
-document.write("    display: none;");
-document.write("    width: 100%;");
-document.write("    border-bottom: 1px solid #acacac64;");
-document.write("}");
-document.write("#toweek, .show1 {");
-document.write("    display: table-row !important;");
-document.write("}");
-document.write(".showblock {");
-document.write("    display: block !important;");
-document.write("}");
-document.write("#gaokao{");
-document.write("    color: #fff;");
-document.write("    text-align: center;");
-document.write("    vertical-align: middle;");
-document.write("}");
-document.write("#day1 {");
-document.write("    color: #0ff;");
-document.write("}");
-document.write("#day1 >span {");
-document.write("    padding: 2px 4px;");
-document.write("    margin: 1px;");
-document.write("    background-color: #3f3f3fd2;");
-document.write("    border-radius: 3px;");
-document.write("    font-size: 17px;");
-document.write("}");
-document.write("#showall,#hide{");
-document.write("    color: #0ff;");
-document.write("    font-size: 14px;");
-document.write("    cursor: pointer;");
-document.write("    text-align: right;");
-document.write("}");
-document.write("#hide{");
-document.write("    display: none;");
-document.write("}");
-document.write("<\/style>");
-document.write("<script src=\"\/assets\/js\/jquery-min.js\"><\/script>");
-document.write("<script src=\"\/assets\/js\/calendar.js\"><\/script>");
-document.write("<script src=\"\/assets\/js\/time.js\"><\/script>");
-document.write("");
-document.write("<div class=\"calendarBk\">");
-document.write("    <div class=\"calendarDiv\">");
-document.write("      <div id=\"date\">");
-document.write("	    <div id=\"dateHeader\">");
-document.write("            <div id=\"time\">");
-document.write("                <span id=\"nowHour\"><\/span>:<span id=\"nowMin\"><\/span>:<span id=\"nowSec\"><\/span>");
-document.write("            <\/div>");
-document.write("            <div id=\"nowTime\" style=\"font-size: 15px;height:21px;\"><\/div>");
-document.write("            <div><span id=\"gz\"><\/span> <span id=\"festival1\"><\/span><\/div>");
-document.write("		<\/div>");
-document.write("		<div id=\"panel\">");
-document.write("        <button onclick=\"pushBtm('MU')\">");
-document.write("            <i class=\"fa-solid fa-angle-left\"><\/i>");
-document.write("        <\/button>");
-document.write("        <button onclick=\"pushBtm('')\" style=\"width: 90px;\">");
-document.write("            返回今日");
-document.write("          <\/button>");
-document.write("        <button onclick=\"pushBtm('MD')\">");
-document.write("            <i class=\"fa-solid fa-angle-right\"><\/i>");
-document.write("        <\/button>");
-document.write("      <\/div>");
-document.write("	   <div id=\"combox\" hidden>");
-document.write("          公历");
-document.write("          <select onchange=\"changeCld()\" id=\"sy\">");
-document.write("          <\/select>");
-document.write("          <select onchange=\"changeCld()\" id=\"sm\">");
-document.write("          <\/select>");
-document.write("        <\/div>");
-document.write("      <\/div>");
-document.write("      <div id=\"calendar\">");
-document.write("        <div id=\"calendarmonth\">2023\/09<\/div>");
-document.write("        <table id=\"calendarhead\">");
-document.write("          <tr>");
-document.write("            <td>一<\/td>");
-document.write("            <td>二<\/td>");
-document.write("            <td>三<\/td>");
-document.write("            <td>四<\/td>");
-document.write("            <td>五<\/td>");
-document.write("            <td>六<\/td>");
-document.write("            <td>日<\/td>			");
-document.write("          <\/tr>");
-document.write("        <\/table>");
-document.write("      <\/div>");
-document.write("	  <script type=\"text\/javascript\">");
-document.write("	  initial();");
-document.write("      <\/script>");
-document.write("      <a onclick=\"showAll()\" id=\"showall\"><i class=\"fa-solid fa-chevron-down\"><\/i>展开<\/a>");
-document.write("      <a onclick=\"hideAll()\" id=\"hide\"><i class=\"fa-solid fa-chevron-up\"><\/i>收起<\/a>");
-document.write("    <\/div>");
-document.write("	<\/div>");
-document.write("    <div id=\"gaokao\">距离2024年高考还有<span id=\"day1\"><\/span>天<\/div>");
-document.write("   <script src=\"\/assets\/js\/timer.js\"><\/script>");
-]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/assets/js/timer.js</url>
-    <content><![CDATA[
-function tow(n) {
-    if (n>=0 && n < 10){
-      return "00" + n;
-    } else if (n>=10 && n < 100){
-      return "0" + n;
-    } else {
-      return n;
-    }
-  }
-  
-  function getDate(){
-    let oDate = new Date()
-    let oldTime = oDate.getTime()
-    let newDate = new Date('2024/6/7 00:00:00');
-    let newTime = newDate.getTime()
-    let second = Math.floor((newTime - oldTime) / 1000)
-    let day = Math.floor(second / 86400) + 1
-    second = second % 86400
-    let hour = Math.floor(second / 3600)
-    second %= 3600
-    let minute = Math.floor(second / 60)
-    second %= 60
-    let dayto = tow(day) + "";
-    const dayArray = dayto.split("");
-    document.getElementById("day1").innerHTML = "<span>" + dayArray[0] + "</span><span>" + dayArray[1] + "</span><span>" + dayArray[2] + "</span>"
-  }
-  getDate();]]></content>
   </entry>
   <entry>
     <title></title>
@@ -1660,6 +1306,356 @@ document.getElementById("panel").style.display = "none";
     return realNum;
   }
   setInterval('getNowTime()', 1000);]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/assets/js/calhtml.js</url>
+    <content><![CDATA[document.write("<style>");
+document.write(".tdSelState{");
+document.write("border-width: 1px;");
+document.write("border-color: #0ff !important;");
+document.write("border-style: solid;");
+document.write("}");
+document.write("");
+document.write(".calendarBk{");
+document.write("	margin:0px auto;");
+document.write("	display:block;	");
+document.write("	background:transparent;	");
+document.write("}");
+document.write("");
+document.write(".aorange, .one {");
+document.write("color: rgba(255,255,255,0.7);");
+document.write("text-align:center;");
+document.write("}");
+document.write("");
+document.write(".solarDay {");
+document.write("color: #0ff;");
+document.write("}");
+document.write("");
+document.write(".aorange:hover,.one:hover{");
+document.write("    border-color: #0ff;");
+document.write("}");
+document.write("");
+document.write(".spc {");
+document.write("color:#ff5f07;");
+document.write("}");
+document.write("");
+document.write("select,p {");
+document.write("font-size: 14px;");
+document.write("height:24px;");
+document.write("color:#000;");
+document.write("text-align: center; ");
+document.write("}");
+document.write("select{");
+document.write("width:85px;");
+document.write("}");
+document.write("select#sm{");
+document.write("  width:65px;");
+document.write("}");
+document.write("");
+document.write("div#festival {");
+document.write("color: rgba(255,255,255,0.7);");
+document.write("width: 130px; ");
+document.write("padding: 2px; ");
+document.write("margin: 0; ");
+document.write("");
+document.write("}");
+document.write("");
+document.write("div#datedetail {");
+document.write("width: 130px; ");
+document.write("border: 0; ");
+document.write("padding: 2px; ");
+document.write("margin: 0; ");
+document.write("text-align:right; ");
+document.write("}");
+document.write("div#datedetail span {");
+document.write("color: #23460f;");
+document.write("}");
+document.write("div#detail {");
+document.write("position: absolute;");
+document.write("visibility: hidden;");
+document.write("margin: 0;");
+document.write("}");
+document.write("");
+document.write("div#date {");
+document.write("clear:both;");
+document.write("padding-top:0 !important;");
+document.write("width:100%;");
+document.write("}");
+document.write("div#calendar {");
+document.write("text-align:center;");
+document.write("width:100%;");
+document.write("border-top:0;");
+document.write("height:auto;");
+document.write("}");
+document.write("#calendarhead{");
+document.write("height:30px;");
+document.write("border:0;");
+document.write("padding:0;");
+document.write("margin: 0 0 2px 0;");
+document.write("width: 100%;");
+document.write("}");
+document.write("");
+document.write("#calendarhead tr td {");
+document.write("width:32px;");
+document.write("text-align:center;");
+document.write("font-size: 14px;");
+document.write("color: #0ff;");
+document.write("border-bottom: 2px solid #0ff;");
+document.write("border-top: none;");
+document.write("border-left: none;");
+document.write("border-right: none;");
+document.write("padding: 0;");
+document.write("}");
+document.write("#dateHeader{");
+document.write("width:100%;");
+document.write("text-align: center;");
+document.write("color: #fff;");
+document.write("font-size: 14px;");
+document.write("}");
+document.write("#dateHeader>div{");
+document.write("    margin: 3px 0;");
+document.write("}");
+document.write("");
+document.write("div#panel{");
+document.write("    display: none;");
+document.write("    justify-content: space-between;");
+document.write("    margin-bottom: 5px;");
+document.write("}");
+document.write("div#panel button {");
+document.write("padding:3px;");
+document.write("margin-right:2px;");
+document.write("color:#f0f0f0;");
+document.write("background-color: rgba(0, 170, 170, 0.5);");
+document.write("height:28px;");
+document.write("width:40px;");
+document.write("cursor:pointer;");
+document.write("transition: .3s;");
+document.write("border: none;");
+document.write("border-radius: 3px;");
+document.write("}");
+document.write("");
+document.write("div#panel button:hover{");
+document.write("transition: .3s;");
+document.write("color: #0ff;");
+document.write("}");
+document.write("div#panel button:active{");
+document.write("background:#38C462;");
+document.write("border:1px solid #0ff;");
+document.write("}");
+document.write("div#panel button:focus{");
+document.write("   outline: none;");
+document.write("}");
+document.write("	  ");
+document.write("#week {");
+document.write("border-collapse:collapse;");
+document.write("width: 100%;");
+document.write("}");
+document.write("#week tr td {");
+document.write("padding:1px;");
+document.write("margin:0;");
+document.write("width: 14.28%;");
+document.write("border-radius: 5px;");
+document.write("}");
+document.write("");
+document.write(".tr2 td {");
+document.write("background-color: #e8f5f9;");
+document.write("}");
+document.write("");
+document.write(".solarDay,.lunarDay{");
+document.write("	display:block;");
+document.write("    line-height: 19px;	");
+document.write("}");
+document.write(".solarDay{");
+document.write("	color: rgba(255,255,255,0.7);");
+document.write("	margin-top:5px;");
+document.write("    font-size: 14px;");
+document.write("}");
+document.write(".lunarDay{");
+document.write("    font-size: 10px;");
+document.write("}");
+document.write("");
+document.write(".gray{");
+document.write("   color:#acacac !important;");
+document.write("}");
+document.write(".main{");
+document.write("margin:0px;");
+document.write("background-size:100% 100%;");
+document.write("width:100%;");
+document.write("}");
+document.write("");
+document.write(".sp-block{");
+document.write("float:left;");
+document.write("width:400px;");
+document.write("height:250px;");
+document.write("}");
+document.write(".tr1 >td {");
+document.write("    transition: .3s;");
+document.write("    display: inline-block;");
+document.write("    border-style: solid;");
+document.write("    border-width: 1px;");
+document.write("    border-color: transparent;");
+document.write("    cursor: default;");
+document.write("}");
+document.write(".tr1 >td:hover:focus {");
+document.write("    border-color: rgb(0, 203, 203);");
+document.write("    color: #fff;");
+document.write("    transition: .3s;");
+document.write("    padding: 0;");
+document.write("    box-shadow: 5px #0ff;");
+document.write("}");
+document.write(".today>span{");
+document.write("    color: #fff !important;");
+document.write("}");
+document.write(".today{");
+document.write("    background-color: rgba(0, 170, 170, 0.5);");
+document.write("    border-color: #0ff !important;");
+document.write("}");
+document.write("#calendarmonth{");
+document.write("    color: #fff;");
+document.write("    display: none;");
+document.write("}");
+document.write("#time{");
+document.write("    color: #fff;");
+document.write("    font-size: 20px !important;");
+document.write("    font-family: Consolas, sans-serif;");
+document.write("    text-align: center;");
+document.write("    height: 35px;");
+document.write("    margin-top: -5px !important;");
+document.write("}");
+document.write("#time>span {");
+document.write("    background-color: #3f3f3fd2;");
+document.write("    padding: 2px 4px;");
+document.write("    border-radius: 5px;");
+document.write("}");
+document.write("#festival1{");
+document.write("    color: #0ff;");
+document.write("}");
+document.write(".tr1 {");
+document.write("    display: none;");
+document.write("    width: 100%;");
+document.write("    border-bottom: 1px solid #acacac64;");
+document.write("}");
+document.write("#toweek, .show1 {");
+document.write("    display: table-row !important;");
+document.write("}");
+document.write(".showblock {");
+document.write("    display: block !important;");
+document.write("}");
+document.write("#gaokao{");
+document.write("    color: #fff;");
+document.write("    text-align: center;");
+document.write("    vertical-align: middle;");
+document.write("}");
+document.write("#day1 {");
+document.write("    color: #0ff;");
+document.write("}");
+document.write("#day1 >span {");
+document.write("    padding: 2px 4px;");
+document.write("    margin: 1px;");
+document.write("    background-color: #3f3f3fd2;");
+document.write("    border-radius: 3px;");
+document.write("    font-size: 17px;");
+document.write("}");
+document.write("#showall,#hide{");
+document.write("    color: #0ff;");
+document.write("    font-size: 14px;");
+document.write("    cursor: pointer;");
+document.write("    text-align: right;");
+document.write("}");
+document.write("#hide{");
+document.write("    display: none;");
+document.write("}");
+document.write("<\/style>");
+document.write("<script src=\"\/assets\/js\/jquery-min.js\"><\/script>");
+document.write("<script src=\"\/assets\/js\/calendar.js\"><\/script>");
+document.write("<script src=\"\/assets\/js\/time.js\"><\/script>");
+document.write("");
+document.write("<div class=\"calendarBk\">");
+document.write("    <div class=\"calendarDiv\">");
+document.write("      <div id=\"date\">");
+document.write("	    <div id=\"dateHeader\">");
+document.write("            <div id=\"time\">");
+document.write("                <span id=\"nowHour\"><\/span>:<span id=\"nowMin\"><\/span>:<span id=\"nowSec\"><\/span>");
+document.write("            <\/div>");
+document.write("            <div id=\"nowTime\" style=\"font-size: 15px;height:21px;\"><\/div>");
+document.write("            <div><span id=\"gz\"><\/span> <span id=\"festival1\"><\/span><\/div>");
+document.write("		<\/div>");
+document.write("		<div id=\"panel\">");
+document.write("        <button onclick=\"pushBtm('MU')\">");
+document.write("            <i class=\"fa-solid fa-angle-left\"><\/i>");
+document.write("        <\/button>");
+document.write("        <button onclick=\"pushBtm('')\" style=\"width: 90px;\">");
+document.write("            返回今日");
+document.write("          <\/button>");
+document.write("        <button onclick=\"pushBtm('MD')\">");
+document.write("            <i class=\"fa-solid fa-angle-right\"><\/i>");
+document.write("        <\/button>");
+document.write("      <\/div>");
+document.write("	   <div id=\"combox\" hidden>");
+document.write("          公历");
+document.write("          <select onchange=\"changeCld()\" id=\"sy\">");
+document.write("          <\/select>");
+document.write("          <select onchange=\"changeCld()\" id=\"sm\">");
+document.write("          <\/select>");
+document.write("        <\/div>");
+document.write("      <\/div>");
+document.write("      <div id=\"calendar\">");
+document.write("        <div id=\"calendarmonth\">2023\/09<\/div>");
+document.write("        <table id=\"calendarhead\">");
+document.write("          <tr>");
+document.write("            <td>一<\/td>");
+document.write("            <td>二<\/td>");
+document.write("            <td>三<\/td>");
+document.write("            <td>四<\/td>");
+document.write("            <td>五<\/td>");
+document.write("            <td>六<\/td>");
+document.write("            <td>日<\/td>			");
+document.write("          <\/tr>");
+document.write("        <\/table>");
+document.write("      <\/div>");
+document.write("	  <script type=\"text\/javascript\">");
+document.write("	  initial();");
+document.write("      <\/script>");
+document.write("      <a onclick=\"showAll()\" id=\"showall\"><i class=\"fa-solid fa-chevron-down\"><\/i>展开<\/a>");
+document.write("      <a onclick=\"hideAll()\" id=\"hide\"><i class=\"fa-solid fa-chevron-up\"><\/i>收起<\/a>");
+document.write("    <\/div>");
+document.write("	<\/div>");
+document.write("    <div id=\"gaokao\">距离2024年高考还有<span id=\"day1\"><\/span>天<\/div>");
+document.write("   <script src=\"\/assets\/js\/timer.js\"><\/script>");
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/assets/js/timer.js</url>
+    <content><![CDATA[
+function tow(n) {
+    if (n>=0 && n < 10){
+      return "00" + n;
+    } else if (n>=10 && n < 100){
+      return "0" + n;
+    } else {
+      return n;
+    }
+  }
+  
+  function getDate(){
+    let oDate = new Date()
+    let oldTime = oDate.getTime()
+    let newDate = new Date('2024/6/7 00:00:00');
+    let newTime = newDate.getTime()
+    let second = Math.floor((newTime - oldTime) / 1000)
+    let day = Math.floor(second / 86400) + 1
+    second = second % 86400
+    let hour = Math.floor(second / 3600)
+    second %= 3600
+    let minute = Math.floor(second / 60)
+    second %= 60
+    let dayto = tow(day) + "";
+    const dayArray = dayto.split("");
+    document.getElementById("day1").innerHTML = "<span>" + dayArray[0] + "</span><span>" + dayArray[1] + "</span><span>" + dayArray[2] + "</span>"
+  }
+  getDate();]]></content>
   </entry>
   <entry>
     <title></title>
