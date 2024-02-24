@@ -1,27 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/articles/1001/</url>
-    <content><![CDATA[<p>本站为<a href="https://aquafr.cn">AquaFR</a>的测试博客，感谢您的访问。<br>
-使用<code>Github Pages</code>搭建，加载速度较慢，请耐心等待。</p>
-<p>文章链接： <a href="https://aquafr.cn/articles/1001/">https://aquafr.cn/articles/1001/</a></p>
-]]></content>
-      <categories>
-        <category>其他</category>
-      </categories>
-      <tags>
-        <tag>网站</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>业余无线电台管理办法</title>
+    <title>业余无线电台管理办法（工信部令第67号）</title>
     <url>/articles/1003/</url>
     <content><![CDATA[<p>原文链接：<i class="fa-solid fa-arrow-up-right-from-square"> </i> <a href="https://wap.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/wxdl/art/2024/art_9a2dba77d86942cebd1e9cbacd2d4b20.html">https://wap.miit.gov.cn/gyhxxhb/jgsj/cyzcyfgs/bmgz/wxdl/art/2024/art_9a2dba77d86942cebd1e9cbacd2d4b20.html</a></p>
 <blockquote>
 <h3 id="业余无线电台管理办法">业余无线电台管理办法</h3>
 <p>（2024年1月18日中华人民共和国工业和信息化部令第67号公布，自2024年3月1日起施行。）</p>
-<p>####第一章 总则</p>
+<h4 id="第一章-总则">第一章 总则</h4>
 <p><strong>第一条</strong> 为了加强业余无线电台管理，维护空中电波秩序，保证相关无线电业务的正常进行，根据《中华人民共和国无线电管理条例》和相关法律、行政法规，制定本办法。</p>
 <p><strong>第二条</strong> 在中华人民共和国境内设置、使用业余无线电台以及实施相关的监督管理，适用本办法。<br>
 本办法所称业余无线电台，是指为开展业余业务（含卫星业余业务）使用的一个或者多个发信机、收信机，或者发信机与收信机的组合（包括附属设备）。</p>
@@ -32,7 +18,7 @@
 省、自治区、直辖市无线电管理机构依照本办法负责本行政区域业余无线电台设置、使用的监督管理。<br>
 国家无线电管理机构和省、自治区、直辖市无线电管理机构统称无线电管理机构。</p>
 <p><strong>第五条</strong> 国家鼓励和支持业余无线电通信技术的科学研究、科普宣传和教育教学等活动。</p>
-<p>####第二章 许可管理</p>
+<h4 id="第二章-许可管理">第二章 许可管理</h4>
 <p><strong>第六条</strong> 设置、使用业余无线电台，应当向无线电管理机构提出申请，取得业余无线电台执照。<br>
 遇有危及国家安全、公共安全、生命财产安全等紧急情况，可以不经批准临时设置、使用业余无线电台，但应当在48小时内向电台所在地的无线电管理机构报告，并在紧急情况消除后及时关闭。</p>
 <p><strong>第七条</strong> 设置、使用业余无线电台，应当具备以下条件：</p>
@@ -79,7 +65,7 @@
 除业余中继台、业余信标台呼号外，其他业余无线电台呼号注销1年后，无线电管理机构可以将相关电台呼号重新投入分配。<br>
 电台呼号重新投入分配前，申请人再次申请设置、使用业余无线电台，无线电管理机构经审查决定颁发业余无线电台执照的，应当同时核发申请人已注销的电台呼号。</p>
 <p><strong>第二十四条</strong> 没有固定台址的业余无线电台设置区域超出申请人住所地所在省、自治区、直辖市行政区域的，作出许可决定的无线电管理机构应当将无线电台执照颁发、呼号核发等有关信息通报相关的省、自治区、直辖市无线电管理机构。</p>
-<p>####第三章 操作技术能力验证</p>
+<h4 id="第三章-操作技术能力验证">第三章 操作技术能力验证</h4>
 <p><strong>第二十五条</strong> 业余无线电台操作技术能力分为A类、B类和C类。</p>
 <p><strong>第二十六条</strong> 参加A类业余无线电台操作技术能力验证的人员，应当熟悉无线电管理规定，具有一定的业余无线电台操作技术能力。<br>
 参加B类业余无线电台操作技术能力验证的人员，应当依法取得业余无线电台执照6个月以上，且具有相应的实际操作经验。<br>
@@ -92,7 +78,7 @@
 <p><strong>第三十条</strong> 取得A类业余无线电台操作技术能力验证证书的，可以申请设置、使用工作在30-3000MHz频段且最大发射功率不大于25瓦的业余无线电台。<br>
 取得B类业余无线电台操作技术能力验证证书的，可以申请设置、使用工作在30MHz以下频段且最大发射功率小于15瓦，或者工作在30MHz以上频段且最大发射功率不大于25瓦的业余无线电台。<br>
 取得C类业余无线电台操作技术能力验证证书的，可以申请设置、使用工作在30MHz以下频段且最大发射功率不大于1000瓦，或者工作在30MHz以上频段且最大发射功率不大于25瓦的业余无线电台。</p>
-<p>####第四章 设置、使用要求</p>
+<h4 id="第四章-设置、使用要求">第四章 设置、使用要求</h4>
 <p><strong>第三十一条</strong> 设置、使用业余无线电台，应当符合业余无线电台执照载明的事项和要求，遵守国家无线电管理有关规定。</p>
 <p><strong>第三十二条</strong> 业余无线电台使用的无线电频率为次要业务划分的，不得对使用主要业务频率划分的合法无线电台（站）产生有害干扰，不得对来自使用主要业务频率划分的合法无线电台（站）的有害干扰提出保护要求。<br>
 违反前款规定产生有害干扰的，应当立即停止发射，待干扰消除后方可继续使用。</p>
@@ -120,13 +106,13 @@
 <li>（八）向境外组织或者个人提供涉及国家安全的境内电波参数资料；</li>
 <li>（九）法律、行政法规禁止的其他活动。</li>
 </ul>
-<p>####第五章 电波秩序维护</p>
+<h4 id="第五章-电波秩序维护">第五章 电波秩序维护</h4>
 <p><strong>第四十四条</strong> 无线电管理机构应当定期对在用的业余无线电台进行检查和检测。业余无线电台设置、使用人应当接受并配合检查、检测。</p>
 <p><strong>第四十五条</strong> 依法设置、使用的业余无线电台受到有害干扰的，可以向业余无线电台使用地或者作出许可决定的无线电管理机构投诉；受到境外无线电有害干扰的，可以向国家无线电管理机构投诉。<br>
 受理投诉的无线电管理机构应当及时处理，并将处理情况告知投诉人。</p>
 <p><strong>第四十六条</strong> 无线电管理机构可以要求产生有害干扰的业余无线电台采取有效措施消除有害干扰；有害干扰无法消除的，可以责令产生有害干扰的业余无线电台暂停发射。<br>
 对于非法的无线电发射活动，无线电管理机构可以暂扣无线电发射设备或者查封业余无线电台，必要时可以采取技术性阻断措施；发现涉嫌违法犯罪活动的，无线电管理机构应当及时通报公安机关并配合调查处理。</p>
-<p>####第六章 法律责任</p>
+<h4 id="第六章-法律责任">第六章 法律责任</h4>
 <p><strong>第四十七条</strong> 未经许可擅自设置、使用业余无线电台的，由无线电管理机构依照《中华人民共和国无线电管理条例》第七十条的规定处理。</p>
 <p><strong>第四十八条</strong> 有下列行为之一的，由无线电管理机构依照《中华人民共和国无线电管理条例》第七十二条的规定处理：</p>
 <ul>
@@ -139,7 +125,7 @@
 <p><strong>第五十一条</strong> 隐瞒有关情况、提供虚假材料或者虚假承诺申请业余无线电台设置、使用许可，或者以欺骗、贿赂等不正当手段取得业余无线电台执照的，由无线电管理机构依照《中华人民共和国行政许可法》第七十八条、第七十九条等规定处理。</p>
 <p><strong>第五十二条</strong> 违反本办法规定，构成违反治安管理行为的，依法给予治安管理处罚；构成犯罪的，依法追究刑事责任。</p>
 <p><strong>第五十三条</strong> 无线电管理机构及其工作人员不依照《中华人民共和国无线电管理条例》和本办法履行职责的，对负有责任的领导人员和其他直接责任人员依法给予处分。</p>
-<p>####第七章 附则</p>
+<h4 id="第七章-附则">第七章 附则</h4>
 <p><strong>第五十四条</strong> 本办法中下列用语的含义：</p>
 <ul>
 <li>（一）业余中继台，是指通过对业余无线电信号接收和放大转发，扩大通联范围的业余无线电台；</li>
@@ -162,6 +148,20 @@
         <tag>业余无线电</tag>
         <tag>HAM</tag>
         <tag>工信部</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/articles/1001/</url>
+    <content><![CDATA[<p>本站为<a href="https://aquafr.cn">AquaFR</a>的测试博客，感谢您的访问。<br>
+使用<code>Github Pages</code>搭建，加载速度较慢，请耐心等待。</p>
+<p>文章链接： <a href="https://aquafr.cn/articles/1001/">https://aquafr.cn/articles/1001/</a></p>
+]]></content>
+      <categories>
+        <category>其他</category>
+      </categories>
+      <tags>
+        <tag>网站</tag>
       </tags>
   </entry>
   <entry>
@@ -574,13 +574,13 @@ height:250px;
    <script src="/assets/js/timer.js"></script>]]></content>
   </entry>
   <entry>
-    <title>关于</title>
-    <url>/about/index.html</url>
+    <title>友情链接</title>
+    <url>/link/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>分类</title>
-    <url>/categories/index.html</url>
+    <title>关于</title>
+    <url>/about/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -589,8 +589,20 @@ height:250px;
     <content><![CDATA[]]></content>
   </entry>
   <entry>
-    <title>友情链接</title>
-    <url>/link/index.html</url>
+    <title>分类</title>
+    <url>/categories/index.html</url>
+    <content><![CDATA[]]></content>
+  </entry>
+  <entry>
+    <title>音乐</title>
+    <url>/music/index.html</url>
+    <content><![CDATA[<h3 id="留下来听会儿歌吧！这里是一些我喜欢的">留下来听会儿歌吧！这里是一些我喜欢的</h3>
+<div class="aplayer" data-id="8691836241" data-server="netease" data-type="playlist" data-autoplay="false" data-theme="#00ffff" data-mutex="true" > </div>
+]]></content>
+  </entry>
+  <entry>
+    <title>标签</title>
+    <url>/tags/index.html</url>
     <content><![CDATA[]]></content>
   </entry>
   <entry>
@@ -624,18 +636,6 @@ height:250px;
 <ul>
 <li>之前版本的更新日志省略</li>
 </ul>
-]]></content>
-  </entry>
-  <entry>
-    <title>标签</title>
-    <url>/tags/index.html</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
-    <title>音乐</title>
-    <url>/music/index.html</url>
-    <content><![CDATA[<h3 id="留下来听会儿歌吧！这里是一些我喜欢的">留下来听会儿歌吧！这里是一些我喜欢的</h3>
-<div class="aplayer" data-id="8691836241" data-server="netease" data-type="playlist" data-autoplay="false" data-theme="#00ffff" data-mutex="true" > </div>
 ]]></content>
   </entry>
   <entry>
@@ -1043,6 +1043,38 @@ document.write("	<\/div>");
 document.write("    <div id=\"gaokao\">距离2024年高考还有<span id=\"day1\"><\/span>天<\/div>");
 document.write("   <script src=\"\/assets\/js\/timer.js\"><\/script>");
 ]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/assets/js/timer.js</url>
+    <content><![CDATA[
+function tow(n) {
+    if (n>=0 && n < 10){
+      return "00" + n;
+    } else if (n>=10 && n < 100){
+      return "0" + n;
+    } else {
+      return n;
+    }
+  }
+  
+  function getDate(){
+    let oDate = new Date()
+    let oldTime = oDate.getTime()
+    let newDate = new Date('2024/6/7 00:00:00');
+    let newTime = newDate.getTime()
+    let second = Math.floor((newTime - oldTime) / 1000)
+    let day = Math.floor(second / 86400) + 1
+    second = second % 86400
+    let hour = Math.floor(second / 3600)
+    second %= 3600
+    let minute = Math.floor(second / 60)
+    second %= 60
+    let dayto = tow(day) + "";
+    const dayArray = dayto.split("");
+    document.getElementById("day1").innerHTML = "<span>" + dayArray[0] + "</span><span>" + dayArray[1] + "</span><span>" + dayArray[2] + "</span>"
+  }
+  getDate();]]></content>
   </entry>
   <entry>
     <title></title>
@@ -1628,38 +1660,6 @@ document.getElementById("panel").style.display = "none";
     return realNum;
   }
   setInterval('getNowTime()', 1000);]]></content>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/assets/js/timer.js</url>
-    <content><![CDATA[
-function tow(n) {
-    if (n>=0 && n < 10){
-      return "00" + n;
-    } else if (n>=10 && n < 100){
-      return "0" + n;
-    } else {
-      return n;
-    }
-  }
-  
-  function getDate(){
-    let oDate = new Date()
-    let oldTime = oDate.getTime()
-    let newDate = new Date('2024/6/7 00:00:00');
-    let newTime = newDate.getTime()
-    let second = Math.floor((newTime - oldTime) / 1000)
-    let day = Math.floor(second / 86400) + 1
-    second = second % 86400
-    let hour = Math.floor(second / 3600)
-    second %= 3600
-    let minute = Math.floor(second / 60)
-    second %= 60
-    let dayto = tow(day) + "";
-    const dayArray = dayto.split("");
-    document.getElementById("day1").innerHTML = "<span>" + dayArray[0] + "</span><span>" + dayArray[1] + "</span><span>" + dayArray[2] + "</span>"
-  }
-  getDate();]]></content>
   </entry>
   <entry>
     <title></title>
