@@ -309,5 +309,4 @@ document.write("      <a onclick=\"showAll()\" id=\"showall\"><i class=\"fa-soli
 document.write("      <a onclick=\"hideAll()\" id=\"hide\"><i class=\"fa-solid fa-chevron-up\"><\/i>收起<\/a>");
 document.write("    <\/div>");
 document.write("	<\/div>");
-document.write("    <div id=\"gaokao\">距离2024年高考还有<span id=\"day1\"><\/span>天<\/div>");
-document.write("   <script src=\"\/assets\/js\/timer.js\"><\/script>");
+
