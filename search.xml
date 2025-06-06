@@ -6132,9 +6132,7 @@ function tow(n) {
     <url>/hpbd/index.html</url>
     <content><![CDATA[<h1>Happy Birthday!</h1>
 <p>今天是您的生日。AquaFR祝您生日快乐，幸福美满，万事如意！</p>
-
-			<script>
-				console.error("TypeError: Cannot read properties of undefined (reading '_id')");
-			</script>]]></content>
+<div onload="play();"><audio id="music" controls><source src="/assets/生日祝福歌.mp3" type="audio/mpeg">抱歉，您的浏览器不支持播放音乐。</audio></div><script> var myVideo=document.getElementById("music");function play(){ document.getElementById("music").play(); } </script>
+]]></content>
   </entry>
 </search>
