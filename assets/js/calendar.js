@@ -290,17 +290,20 @@ function calendar(y, m) {
     this[tmp1].solarTerms = solarTerm[m * 2];
     this[tmp2].solarTerms = solarTerm[m * 2 + 1];
 
-    for (i in wFtv)
-        if (wFtv[i].match(/^(\d{2})(\d)(\d)([\s\*])(.+)$/))
-            if (Number(RegExp.$1) == (m + 1)) {
-                tmp1 = Number(RegExp.$2); // 第几个星期
-                tmp2 = Number(RegExp.$3); // 星期几（0=星期日）
-                let offset = (tmp2 - this.firstWeek + 7) % 7;
-                let index = 7 * (tmp1 - 1) + offset;
-                if (this[index]) {
-                    this[index].solarFestival += RegExp.$5 + ' ';
-                }
+    for (var i in wFtv) {
+        if (wFtv[i].match(/^(\d{2})(\d)(\d)([\s\*])(.+)$/)) {
+          if (Number(RegExp.$1) == (m + 1)) {
+            let weekNumber = Number(RegExp.$2); // 第几个星期
+            let weekday = Number(RegExp.$3);    // 星期几（0 = 周日）
+            let offset = (weekday - this.firstWeek + 7) % 7;
+            let index = 7 * (weekNumber - 1) + offset;
+            if (this[index]) {
+              this[index].solarFestival += RegExp.$5 + ' ';
             }
+          }
+        }
+      }
+      
     
 }
 var cld;
