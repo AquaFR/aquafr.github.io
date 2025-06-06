@@ -6131,8 +6131,8 @@ function tow(n) {
     <title>Happy Birthday！</title>
     <url>/hpbd/index.html</url>
     <content><![CDATA[<h1>Happy Birthday!</h1>
-<p>今天是您的生日。AquaFR祝您生日快乐，幸福美满，万事如意！</p>
-<div onload="play();"><audio id="music" controls><source src="/assets/生日祝福歌.mp3" type="audio/mpeg">抱歉，您的浏览器不支持播放音乐。</audio></div><script> var myVideo=document.getElementById("music");function play(){ document.getElementById("music").play(); } </script>
+<h3 id="今天是您的生日。AquaFR祝您生日快乐，幸福美满，万事如意！">今天是您的生日。AquaFR祝您生日快乐，幸福美满，万事如意！</h3>
+<div><audio id="music" oncanplay="document.getElementById("music").play();" controls><source src="/assets/生日祝福歌.mp3" type="audio/mpeg">抱歉，您的浏览器不支持播放音乐。</audio></div>
 ]]></content>
   </entry>
 </search>
